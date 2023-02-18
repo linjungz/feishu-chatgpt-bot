@@ -14,5 +14,5 @@ FEISHU_APP_SECRET=ZZZZ
 Install latest version of Node and NPM to install the required packages.
 
 ## Credit
-Following unoffical api is leveraged to connect to ChatGPT:
+Following client is leveraged to connect to ChatGPT:
 https://github.com/transitive-bullshit/chatgpt-api
